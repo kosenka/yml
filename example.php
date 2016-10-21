@@ -1,4 +1,6 @@
 <?
+  require_once('ymp.php');
+
   $catalogTree=array(
   );
   
